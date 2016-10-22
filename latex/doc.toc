@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {1.1}Plan}{2}
+\contentsline {chapter}{\numberline {2}FinTech}{3}
+\contentsline {section}{\numberline {2.1}Mondo}{3}
+\contentsline {section}{\numberline {2.2}Monese}{3}
+\contentsline {section}{\numberline {2.3}Number26}{3}
+\contentsline {section}{\numberline {2.4}M-Pesa}{3}
+\contentsline {section}{\numberline {2.5}Revolut}{4}
+\contentsline {section}{\numberline {2.6}Secco}{4}
+\contentsline {section}{\numberline {2.7}Tandem}{4}
+\contentsline {section}{\numberline {2.8}Fivory}{4}
+\contentsline {section}{\numberline {2.9}Lydia}{4}
+\contentsline {chapter}{\numberline {3}Technologies}{5}
+\contentsline {chapter}{\numberline {4}SenDZ}{6}
