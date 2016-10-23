@@ -1,14 +1,16 @@
-\contentsline {chapter}{\numberline {1}Introduction}{2}
-\contentsline {section}{\numberline {1.1}Plan}{2}
-\contentsline {chapter}{\numberline {2}FinTech}{3}
-\contentsline {section}{\numberline {2.1}Mondo}{3}
-\contentsline {section}{\numberline {2.2}Monese}{3}
-\contentsline {section}{\numberline {2.3}Number26}{3}
-\contentsline {section}{\numberline {2.4}M-Pesa}{3}
-\contentsline {section}{\numberline {2.5}Revolut}{4}
-\contentsline {section}{\numberline {2.6}Secco}{4}
-\contentsline {section}{\numberline {2.7}Tandem}{4}
-\contentsline {section}{\numberline {2.8}Fivory}{4}
-\contentsline {section}{\numberline {2.9}Lydia}{4}
-\contentsline {chapter}{\numberline {3}Technologies}{5}
-\contentsline {chapter}{\numberline {4}SenDZ}{6}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Plan}{2}{section.1.1}
+\contentsline {chapter}{\numberline {2}FinTech}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Mondo}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Monese}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Revolut}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}Yoyo-wallet}{4}{section.2.4}
+\contentsline {section}{\numberline {2.5}Number26}{4}{section.2.5}
+\contentsline {section}{\numberline {2.6}M-Pesa}{4}{section.2.6}
+\contentsline {section}{\numberline {2.7}Orange Money}{4}{section.2.7}
+\contentsline {section}{\numberline {2.8}Fivory}{5}{section.2.8}
+\contentsline {section}{\numberline {2.9}Lydia}{5}{section.2.9}
+\contentsline {chapter}{\numberline {3}Technologies}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Gemalto}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Oberthur Technologies}{6}{section.3.2}
+\contentsline {chapter}{\numberline {4}SenDZ}{7}{chapter.4}
